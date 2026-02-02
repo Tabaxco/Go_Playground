@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import "fmt"
 
@@ -33,4 +33,7 @@ func main() {
 	const idadeBento = 4
 	fmt.Println(idadeBento)
 
+	const idadeJonas = true
+
 }
+*/

@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import "fmt"
 
@@ -14,4 +14,5 @@ func main() {
 }
 
 //string - sequencia de bytes
-//float (float64/float32)
+//float (float64/float32). float64 é mais usado.
+*/

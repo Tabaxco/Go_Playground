@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import "fmt"
 
@@ -26,7 +26,8 @@ func main() {
 	fmt.Println(numPrimos)
 	fmt.Println(numPrimos[1:])*/
 
-	//nomesCachorro := make([]string, 5)
+//nomesCachorro := make([]string, 5)
+/*
 	var nomesCachorro []string
 
 	//nomesCachorro[0] = "Belinha"
@@ -55,3 +56,4 @@ func main() {
 
 // 2 - Maps: Heterogêneos
 // pode misturar tipos
+*/

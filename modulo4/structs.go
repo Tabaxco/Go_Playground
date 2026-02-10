@@ -1,4 +1,4 @@
-package main
+/*package main
 
 import "fmt"
 
@@ -59,3 +59,4 @@ func main() {
 	fmt.Println(prof.Pessoa.Nome)
 	fmt.Println(prof.Tipo)
 }
+*//
